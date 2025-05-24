@@ -1,0 +1,10 @@
+[package]
+name = "morph_interpreter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Manuel <emmanuelodhiambo366@gmail.com>"]
+description = "Interpreter for the Morph programming language"
+license = "MIT"
+
+[dependencies]
+# Add dependencies as needed.
